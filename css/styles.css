@@ -233,7 +233,7 @@ h4 {
 
 /* media queries */
 /*medium size*/
-@media (max-width: 992px) and (min-width:768px) {
+@media (max-width: 992px) and (min-width:768px), (orientation: portrait) {
   .spacer {
     height: 30px;
   }
