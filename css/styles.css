@@ -1,7 +1,5 @@
 /* general styles */
 body {
-  overflow-x: hidden;
-  overflow-y:hidden;
   width:100%;
   font-family: 'Montserrat', sans-serif;
   color: #505962;
