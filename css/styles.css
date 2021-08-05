@@ -1,7 +1,7 @@
 /* general styles */
 body {
- /* overflow-x: hidden; */
- overflow-y:hidden;
+  overflow-x: hidden;
+  overflow-y:hidden;
   width:100%;
   font-family: 'Montserrat', sans-serif;
   color: #505962;
@@ -53,6 +53,7 @@ hr {
   font-weight: 700;
   font-size: .9rem;
   letter-spacing: .1rem;
+  padding-right:0;
 }
 
 .nav-item {
@@ -187,8 +188,8 @@ a:hover {
 }
 
 #features {
+  width: 100vw;
   background-color: #f8f9fa;
-  width: 100%;
 }
 
 #second-headline {
