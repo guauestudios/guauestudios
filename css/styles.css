@@ -4,7 +4,7 @@ body {
   margin:0;
   font-family: 'Montserrat', sans-serif;
   color: #505962;
-  overflow: auto;
+  overflow-x: hidden;
 }
 
 .general-padding {
