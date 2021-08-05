@@ -1,6 +1,7 @@
 /* general styles */
 body {
-  width:100%;
+  width:100vw;
+  margin:0;
   font-family: 'Montserrat', sans-serif;
   color: #505962;
   overflow: auto;
