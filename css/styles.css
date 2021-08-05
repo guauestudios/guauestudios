@@ -3,6 +3,7 @@ body {
   width:100%;
   font-family: 'Montserrat', sans-serif;
   color: #505962;
+  overflow: auto;
 }
 
 .general-padding {
